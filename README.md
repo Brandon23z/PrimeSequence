@@ -14,4 +14,4 @@ _______________________________________________Brandon Manni____________________
 
 This is a Backtracking Algorithm that finds a Prime Sequence between two integers. The program is made in C++. It is a console application.
 
-Only the source code is included for now. The source code will be cleaned and the entire compiled program is to be added in the future. 
+Only the source code is included for now. The source code will be cleaned and the entire compiled program is to be added in the future.  
